@@ -1434,4 +1434,4 @@ public class Program
 
 ## Results
 
-![Image of the game in multiplayer mode](https://i.imgur.com/nT2jsvp.png)
+![Image of the game in multiplayer mode](https://github.com/coddec/BigEatSmall/raw/master/screen.png)
