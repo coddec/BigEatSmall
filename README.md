@@ -36,6 +36,7 @@ variety of objects in C#.
 
 ## Use SplashKit to create a simple multiplayer networked game
 
+---
 ## Table of Contents
 - ***[0. Pre-Guide](#0pre-guide)***
 - ***[1. Player.cs](#1-playercs)***
@@ -64,6 +65,7 @@ variety of objects in C#.
 	- [6.4 Complete code](#64-complete-code)
 - ***[7. Player.cs](#7-playercs)***
 	- [7.1 Complete code](#71-complete-code)
+---
 
 
 ### 0. Pre-Guide
