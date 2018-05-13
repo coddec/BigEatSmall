@@ -2,7 +2,7 @@
 
 title: Guide to create a simple multiplayer networked game with SplashKit
 date: 2018-05-13 16:25 UTC
-tags: graphics,window
+tags: graphics,window,soundeffect
 author: Coddec
 author_url: https://github.com/coddec/
 summary: |
