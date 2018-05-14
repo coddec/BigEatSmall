@@ -38,7 +38,7 @@ variety of objects in C#.
 
 ---
 ## Table of Contents
-- ***[0. Pre-Guide](#0pre-guide)***
+- ***[0. Pre-Guide](#0-pre-guide)***
 - ***[1. Player.cs](#1-playercs)***
 	- [1.1 Define required variables, fields and properties.](#11-define-required-variables-fields-and-properties)
 	- [1.2 Create class constructor](#12-create-class-constructor)
